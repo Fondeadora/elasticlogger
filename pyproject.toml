@@ -19,7 +19,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
-certifi = "^2021.5.30"
+certifi = ">=2021.5.30,<2024.0.0"
 elasticsearch = "^7.14.1"
 python-json-logger = "^2.0.1"
 urllib3 = "^1.26.3"
